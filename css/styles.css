@@ -1,0 +1,23 @@
+.back{
+    background-color: aqua;
+}
+
+.card{
+    margin-left: 15%;
+    height: 30%;
+    width: 30%;  
+}
+
+.d-flex{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+.flex{
+    display: grid;
+    grid-row-start: auto;
+    align-content: center;
+    justify-content: center;
+}
